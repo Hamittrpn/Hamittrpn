@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hamittirpan](https://medium.com/@hamittirpan)
 
-- 💬 Ask me about **Xamarin, Flutter**
+- 💬 Ask me about **Flutter, Xamarin**
 
 - 📫 How to reach me **hamittirpan@gmail.com**
 
@@ -19,8 +19,9 @@
 
 ***
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamittrpn&show_icons=true&locale=en&layout=compact" alt="hamittrpn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamittrpn&show_icons=true&theme=aura&count_private=true"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamittrpn&show_icons=true&locale=en" alt="hamittrpn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamittrpn&theme=tokyonight_duo&count_private=true" alt="hamittrpn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamittrpn&" alt="hamittrpn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamittrpn&show_icons=true&locale=en&layout=compact&theme=aura&count_private=true" alt="hamittrpn" /></p>
+
