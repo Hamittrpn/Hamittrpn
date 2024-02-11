@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hamittirpan](https://medium.com/@hamittirpan)
 
-- 💬 Ask me about **Flutter, Xamarin**
+- 💬 Ask me about **Flutter, Swift**
 
 - 📫 How to reach me **hamittirpan@gmail.com**
 
